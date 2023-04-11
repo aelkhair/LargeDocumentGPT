@@ -1,0 +1,4 @@
+langchain
+unstructured
+pdfminer.six
+pinecone-client
